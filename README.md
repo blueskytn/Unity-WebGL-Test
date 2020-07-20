@@ -1,3 +1,3 @@
-# Unity-WebGL-Test
+# Unity WebGL Test
 
 Unity WebGL
