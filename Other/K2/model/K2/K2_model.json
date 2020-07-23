@@ -1,0 +1,15 @@
+{
+	"version":"Sample 1.0.0",
+	"model":"K2.moc",
+	"textures":[
+		"texture_00.png"
+    ],
+    "physics": "K2_physics.json",
+	"motions": {
+		"idle": [
+			{
+				"file": "K2_costume2_live2d_daiji_idle_01.mtn"
+			}
+		]
+	}
+}
